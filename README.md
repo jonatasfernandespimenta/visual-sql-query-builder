@@ -1,6 +1,6 @@
 # Query Builder 🚀
 
-![Demo](assets/demo.gif)
+<video src="assets/demo.mov" controls autoplay style="max-width:100%"></video>
 
 ## Overview ✨
 
